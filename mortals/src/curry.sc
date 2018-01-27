@@ -7,7 +7,7 @@ object example_1a_curry {
   def curriedline(a: Int)(b: Int)(x: Int): Int = a * b + x
                                                   //> curriedline: (a: Int)(b: Int)(x: Int)Int
   
-
+ 
 
   
 }
